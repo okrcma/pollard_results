@@ -1,0 +1,52 @@
+Elliptic Curve defined by y^2 = x^3 + 489998*x + 257021 over Finite Field of size 524309
+s: (265378 : 302990 : 1)
+k: 466692
+t: (60935 : 375136 : 1)
+p_s: x*y
+p_t: x + y
+{
+  "curve_size": 523867,
+  "number_of_components": 6,
+  "components": [
+    {
+      "component_size": 400541,
+      "cycle_length": 1083,
+      "max_distance_from_cycle": 993,
+      "avg_distance_from_cycle": 243.20797180179142
+    },
+    {
+      "component_size": 108223,
+      "cycle_length": 150,
+      "max_distance_from_cycle": 680,
+      "avg_distance_from_cycle": 276.5783775781185
+    },
+    {
+      "component_size": 13676,
+      "cycle_length": 264,
+      "max_distance_from_cycle": 133,
+      "avg_distance_from_cycle": 37.83402922755741
+    },
+    {
+      "component_size": 794,
+      "cycle_length": 14,
+      "max_distance_from_cycle": 85,
+      "avg_distance_from_cycle": 40.58974358974359
+    },
+    {
+      "component_size": 632,
+      "cycle_length": 7,
+      "max_distance_from_cycle": 49,
+      "avg_distance_from_cycle": 24.176
+    },
+    {
+      "component_size": 1,
+      "cycle_length": 1,
+      "max_distance_from_cycle": 0,
+      "avg_distance_from_cycle": 0
+    }
+  ],
+  "avg_period": 865.955210005593,
+  "avg_preperiod": 243.5660673415199,
+  "expected_period": 907.1319415217733
+}
+

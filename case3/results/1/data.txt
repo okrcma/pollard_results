@@ -1,0 +1,27 @@
+Elliptic Curve defined by y^2 = x^3 + 8*x + 1 over Finite Field of size 17
+s: (8 : 4 : 1)
+k: 2
+t: (14 : 16 : 1)
+p_s: x
+p_t: y
+{
+  "curve_size": 19,
+  "number_of_components": 2,
+  "components": [
+    {
+      "component_size": 15,
+      "cycle_length": 3,
+      "max_distance_from_cycle": 7,
+      "avg_distance_from_cycle": 3.25
+    },
+    {
+      "component_size": 4,
+      "cycle_length": 2,
+      "max_distance_from_cycle": 1,
+      "avg_distance_from_cycle": 1.0
+    }
+  ],
+  "avg_period": 2.789473684210526,
+  "avg_preperiod": 2.1578947368421053,
+  "expected_period": 5.4630696690691245
+}

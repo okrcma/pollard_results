@@ -1,0 +1,40 @@
+Elliptic Curve defined by y^2 = x^3 + 6*x + 25 over Finite Field of size 37
+s: (23 : 3 : 1)
+k: 0
+t: (0 : 1 : 0)
+p_s: x
+p_t: y
+{
+  "curve_size": 37,
+  "number_of_components": 4,
+  "components": [
+    {
+      "component_size": 16,
+      "cycle_length": 3,
+      "max_distance_from_cycle": 4,
+      "avg_distance_from_cycle": 2.5384615384615383
+    },
+    {
+      "component_size": 10,
+      "cycle_length": 3,
+      "max_distance_from_cycle": 2,
+      "avg_distance_from_cycle": 1.5714285714285714
+    },
+    {
+      "component_size": 6,
+      "cycle_length": 1,
+      "max_distance_from_cycle": 3,
+      "avg_distance_from_cycle": 2.2
+    },
+    {
+      "component_size": 5,
+      "cycle_length": 1,
+      "max_distance_from_cycle": 2,
+      "avg_distance_from_cycle": 1.5
+    }
+  ],
+  "avg_period": 2.4054054054054053,
+  "avg_preperiod": 1.6486486486486487,
+  "expected_period": 7.6236122731557625
+}
+

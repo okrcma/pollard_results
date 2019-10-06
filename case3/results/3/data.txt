@@ -1,0 +1,54 @@
+/home/ondra/sage-8.8/local/bin/python3 /home/ondra/work/pollard2/measure/case3/cycles.py
+Elliptic Curve defined by y^2 = x^3 + 277245*x + 355045 over Finite Field of size 524309
+s: (121363 : 371479 : 1)
+k: 516539
+t: (478525 : 249152 : 1)
+p_s: x
+p_t: y
+{
+  "curve_size": 524863,
+  "number_of_components": 6,
+  "components": [
+    {
+      "component_size": 419032,
+      "cycle_length": 295,
+      "max_distance_from_cycle": 1259,
+      "avg_distance_from_cycle": 558.0219923245378
+    },
+    {
+      "component_size": 95375,
+      "cycle_length": 457,
+      "max_distance_from_cycle": 401,
+      "avg_distance_from_cycle": 125.41439979772014
+    },
+    {
+      "component_size": 9773,
+      "cycle_length": 89,
+      "max_distance_from_cycle": 227,
+      "avg_distance_from_cycle": 74.16604708798017
+    },
+    {
+      "component_size": 369,
+      "cycle_length": 26,
+      "max_distance_from_cycle": 26,
+      "avg_distance_from_cycle": 7.332361516034985
+    },
+    {
+      "component_size": 296,
+      "cycle_length": 5,
+      "max_distance_from_cycle": 25,
+      "avg_distance_from_cycle": 12.79725085910653
+    },
+    {
+      "component_size": 18,
+      "cycle_length": 9,
+      "max_distance_from_cycle": 3,
+      "avg_distance_from_cycle": 1.8888888888888888
+    }
+  ],
+  "avg_period": 320.2394682040837,
+  "avg_preperiod": 469.2520124299103,
+  "expected_period": 907.993872485134
+}
+
+Process finished with exit code 0
